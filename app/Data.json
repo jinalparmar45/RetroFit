@@ -1,0 +1,20 @@
+{
+  "money": [
+    {
+      "id": 1,
+      "amount": 30,
+      "type": "credit",
+      "shared_in": 3
+    },{
+      "id": 2,
+      "amount":20,
+      "type": "credit",
+      "shared_in": 2
+    },{
+      "id": 3,
+      "amount": 20,
+      "type": "debit",
+      "shared_in": 1
+    }
+  ]
+}
